@@ -7,3 +7,5 @@ A simple portfolio website to showcase projects and skills.
 Browse through the sections to explore my work.
 ## Contributors
 - Di-Anne https://github.com/your-username 
+## Contact 
+https://github.com/Di-Anne
