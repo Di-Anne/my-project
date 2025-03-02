@@ -9,3 +9,6 @@ Browse through the sections to explore my work.
 - [Di-Anne] (https://github.com/your-username) 
 ## Contact 
 https://github.com/Di-Anne
+## skills
+1. VSCode
+2. GitHub
