@@ -9,6 +9,7 @@ Browse through the sections to explore my work.
 - Di-Anne https://github.com/Di-Anne
 ## Contact 
 https://github.com/Di-Anne
-## skills
+## Skills
 1. VSCode
 2. GitHub
+3. Git
